@@ -16,4 +16,8 @@ Shows exact date and time for offline players on your friend and application lis
 
 ## friendly uncle
 
-Enabled profile inspection button in the log viewer, profile comments and shows the ID on all profiles.
+Enables profile inspection button in the log viewer, profile comments and shows the ID on all profiles.
+
+## bond voice
+
+Play all character voices regardless of bond level requirements.
